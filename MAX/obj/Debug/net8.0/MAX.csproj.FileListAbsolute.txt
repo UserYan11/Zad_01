@@ -1,0 +1,14 @@
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/bin/Debug/net8.0/MAX
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/bin/Debug/net8.0/MAX.deps.json
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/bin/Debug/net8.0/MAX.runtimeconfig.json
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/bin/Debug/net8.0/MAX.dll
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/bin/Debug/net8.0/MAX.pdb
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/obj/Debug/net8.0/MAX.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/obj/Debug/net8.0/MAX.AssemblyInfoInputs.cache
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/obj/Debug/net8.0/MAX.AssemblyInfo.cs
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/obj/Debug/net8.0/MAX.csproj.CoreCompileInputs.cache
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/obj/Debug/net8.0/MAX.dll
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/obj/Debug/net8.0/refint/MAX.dll
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/obj/Debug/net8.0/MAX.pdb
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/obj/Debug/net8.0/MAX.genruntimeconfig.cache
+/Users/janstepuro/RiderProjects/CalculateAVG/MAX/obj/Debug/net8.0/ref/MAX.dll
