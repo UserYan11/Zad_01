@@ -1,0 +1,14 @@
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/bin/Debug/net8.0/AVG
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/bin/Debug/net8.0/AVG.deps.json
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/bin/Debug/net8.0/AVG.runtimeconfig.json
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/bin/Debug/net8.0/AVG.dll
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/bin/Debug/net8.0/AVG.pdb
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/obj/Debug/net8.0/AVG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/obj/Debug/net8.0/AVG.AssemblyInfoInputs.cache
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/obj/Debug/net8.0/AVG.AssemblyInfo.cs
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/obj/Debug/net8.0/AVG.csproj.CoreCompileInputs.cache
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/obj/Debug/net8.0/AVG.dll
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/obj/Debug/net8.0/refint/AVG.dll
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/obj/Debug/net8.0/AVG.pdb
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/obj/Debug/net8.0/AVG.genruntimeconfig.cache
+/Users/janstepuro/RiderProjects/CalculateAVG/AVG/obj/Debug/net8.0/ref/AVG.dll
